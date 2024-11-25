@@ -55,12 +55,6 @@ Contributions are welcome! If you have any ideas or want to improve the app, fee
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
 ## Support
 
 For any issues or feature requests, please open an issue on GitHub or contact me directly.
