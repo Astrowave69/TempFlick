@@ -20,7 +20,7 @@
 
 ## Installation
 
-1. **Download the Installer**: Download the latest release [here](https://github.com/yourusername/tempflick/releases).
+1. **Download the Installer**: Download the latest release [here](https://github.com/Astrowave69/tempflick/releases).
 2. **Run the Installer**: Follow the setup wizard to install TempFlick on your computer.
 3. **Launch TempFlick**: Open the app and start cleaning!
 
